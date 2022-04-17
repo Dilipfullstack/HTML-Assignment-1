@@ -38,3 +38,9 @@ iframe {
 #render-dictionary {
     margin-top: 20px;
 }
+
+button {
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+}
